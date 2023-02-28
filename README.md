@@ -1,4 +1,4 @@
-# ExpenseTracke
+# ExpenseTracker
 
 Expense tracking project using Swift. 
 
